@@ -37,6 +37,7 @@ Tasks:
 - [ ] CSE 110 Project
 
 Finally, here is a picture of a cute husky!
+
 ![Doggo](doggo.png)
 
 [Click this link](#my-user-page) to go back to the top of my user page!
